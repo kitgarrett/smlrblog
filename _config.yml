@@ -60,7 +60,7 @@ social-network-links:
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: company/smlr-make
+  linkedin: kitgarrett
   #linkedin: kitgarrett
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "smlr.agency/blog"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
