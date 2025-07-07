@@ -10,14 +10,14 @@
 ############################
 
 # Name of website
-title: My website
+title: smlr. blog
 
 # Your name to show in the footer
-author: Some Person
+author: Kit Garrett
 
 baseurl: "/blog"
 production_url : http://kitgarrett.github.io.com/smlrblog
-BASE_PATH : https://www.smlr.agency/blog
+BASE_PATH : https://kitgarrett.github.io/smlrblog
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -28,7 +28,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Back to smlr.: "https://www.smlr.agency/"
 
 ################
 # --- Logo --- #
