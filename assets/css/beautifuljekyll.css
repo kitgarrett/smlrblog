@@ -384,7 +384,7 @@ img {
   display: none;
 }
 
-.avatar-img {
+img.avatar-img {
   max-width: 100px !important;
   max-height: 100px !important;
 }
