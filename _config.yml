@@ -15,7 +15,7 @@ title: "smlr. blog"
 # Your name to show in the footer
 author: Kit Garrett
 
-baseurl: "/blog"
+baseurl: "/smlrblog"
 production_url : http://kitgarrett.github.io/smlrblog
 BASE_PATH : https://kitgarrett.github.io/smlrblog
 
@@ -36,10 +36,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://www.smlr.agency/images/smlr-square.png"
+#avatar: "https://www.smlr.agency/images/smlr-square.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+#round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
