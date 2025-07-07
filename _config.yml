@@ -10,13 +10,13 @@
 ############################
 
 # Name of website
-title: smlr. blog
+title: "smlr. blog"
 
 # Your name to show in the footer
 author: Kit Garrett
 
 baseurl: "/blog"
-production_url : http://kitgarrett.github.io.com/smlrblog
+production_url : http://kitgarrett.github.io/smlrblog
 BASE_PATH : https://kitgarrett.github.io/smlrblog
 
 ###############################################
